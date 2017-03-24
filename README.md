@@ -30,8 +30,11 @@
 ######28.handle和loop
 ######29.网络缓存.内存缓存.磁盘缓存
 ######30.源码
-
-
+######31.Activity的生命周期以及在该生命周期中所应该干的事情
+######32. 分别的作用是什么？compileSdkVersion 25
+    buildToolsVersion "25.0.0"
+     minSdkVersion 14
+        targetSdkVersion 22
 
 
 
