@@ -1,4 +1,4 @@
-#AndroidQuestion
+# AndroidQuestion
 ######1.进程间通讯，从四大组件分析
 ######2.多线程的创建方式，线程间通讯，run()和start()的区别，run就是个普通的方法
 ######3.内存优化：bitmap、帧动画引起oom
@@ -31,7 +31,7 @@
 ######29.网络缓存.内存缓存.磁盘缓存
 ######30.源码
 ######31.Activity的生命周期以及在该生命周期中所应该干的事情
-######32. compileSdkVersion 25
+######32. 分别的作用是什么？compileSdkVersion 25
     buildToolsVersion "25.0.0"
      minSdkVersion 14
         targetSdkVersion 22
